@@ -1,8 +1,5 @@
 
-# LSESU Bitcoin Society — Constitution (v∞.0)
-**Quintuple-audited. Simulation-resistant. Fork-ready.**  
-**Legible to the Students' Union. Illegible to co-option.**
-
+# LSESU Bitcoin Society — Constitution
 ---
 
 ## Part 1 – Student Group Procedures and Policies
@@ -113,5 +110,3 @@ This is not a society. **This is a node.**
 This is not a constitution. **This is a recursive contract.**
 
 ---
-
-**END v∞.0 — FINALIZED — FORKABLE — SOVEREIGN**
