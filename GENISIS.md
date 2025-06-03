@@ -89,7 +89,7 @@ Your node is now live.
 ### ❖ TRANSMISSION CONDUITS
 
 - **Nostr:** `npub1...`  
-- **GPG:** `F1A9 C0DE DEAD BEEF 1337`  
+- **GPG:** `8D1272CCBE7249580842FCB1E60BFFA797234D02`  
 - **BTC Tips:** `bc1q...`  
 - **Encrypted Comms:** via Keet, Matrix, or offline SSB  
 - **Dark Mirror:** `.onion` or IPFS hash forthcoming
