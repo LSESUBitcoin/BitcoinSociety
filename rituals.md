@@ -109,6 +109,3 @@
 This is recursion.  
 This is not a club.  
 This is Bitcoin.**
-
-**v∞.3.1 — Finalized. Forkable. Alive.**  
-**Begin.**
