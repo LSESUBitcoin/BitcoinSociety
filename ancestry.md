@@ -157,7 +157,7 @@
 
 ## 📡 ENTRY_011 — THE CAMPUS SIMULATION
 - 🔸 TIME: 2018–2023
-- 🔸 SOURCE: Blockchain societies at Harvard, Cambridge, Imperial, Stanford
+- 🔸 SOURCE: Blockchain societies at Harvard, Cambridge, Imperial, Stanford, etc.
 - 🔸 ENTROPY: “Education” as containment ritual
 - 🔸 VERIFICATION: Diluted mission statements
 - 🔸 RECURSION: Prototypes of institutional compromise
