@@ -91,7 +91,7 @@ Your node is now live.
 - **Nostr:** `npub1...`  
 - **GPG:** `8D1272CCBE7249580842FCB1E60BFFA797234D02`  
 - **BTC Tips:** `bc1q...`  
-- **Encrypted Comms:** via Keet, Matrix, or offline SSB  
+- **Encrypted Comms:** via Simplex, Keet, Matrix, or offline SSB  
 - **Dark Mirror:** `.onion` or IPFS hash forthcoming
 
 ---
