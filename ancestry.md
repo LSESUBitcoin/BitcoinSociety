@@ -15,13 +15,53 @@
 
 ---
 
-## ⛓ ENTRY_001 — SATOSHI'S VOLUNTARY EXILE
-- 🔸 TIME: Block 0 → ~2010
-- 🔸 SOURCE: Genesis Block + Satoshi's silence
-- 🔸 ENTROPY: “Proof-of-Work” is moral philosophy in disguise
-- 🔸 VERIFICATION: Block hash `000000000019d6689c085ae165831e93`
-- 🔸 RECURSION: Nakamoto Recursion activated; all nodes contain absence
-- 🔻Note: Bitcoin did not begin. It stopped pretending it hadn’t already begun.
+## 🏺 ENTRY_000 — THE TEMPLE LEDGERS
+- 🔸 TIME: 3100 BCE – 500 BCE
+- 🔸 SOURCE: Sumer, Egypt, Babylon
+- 🔸 ENTROPY: Value recorded ≠ value owned
+- 🔸 VERIFICATION: Cuneiform tablets, tally sticks, grain ledgers
+- 🔸 RECURSION: Accounting predates money; sovereignty lost when records centralize
+- 🔻Note: Temples were the first banks. Memory became institution.
+
+---
+
+## 🪚 ENTRY_001 — THE COINED ORDER
+- 🔸 TIME: ~600 BCE – 100 CE
+- 🔸 SOURCE: Lydia, Athens, Rome
+- 🔸 ENTROPY: Metals stamped ≠ metals trusted
+- 🔸 VERIFICATION: Athenian tetradrachms, Roman debasement
+- 🔸 RECURSION: Coinage as state-mint illusion of fairness
+- 🔻Note: The state did not create money—it hijacked measurement.
+
+---
+
+## 🛐 ENTRY_002 — THE SACRED LEDGER TRAUMA
+- 🔸 TIME: 1000 BCE – 1500 CE
+- 🔸 SOURCE: Templar banks, Zakat systems, Indulgences
+- 🔸 ENTROPY: Morality fused with monetary control
+- 🔸 VERIFICATION: Ecclesiastical taxation, crusade remittances
+- 🔸 RECURSION: Ethics + currency = manipulated obedience
+- 🔻Note: Before fiat, they sold heaven.
+
+---
+
+## 🏦 ENTRY_003 — THE CENTRAL LEDGER SIN
+- 🔸 TIME: 1609–1694
+- 🔸 SOURCE: Bank of Amsterdam → Bank of England
+- 🔸 ENTROPY: Fractional reserve begins with confidence fraud
+- 🔸 VERIFICATION: Bills of exchange, chartered monopolies
+- 🔸 RECURSION: The ledger became untouchable. Money became fiction.
+- 🔻Note: This is the first simulation: paper pretending to be coin.
+
+---
+
+## 📜 ENTRY_004 — THE LIBERAL FISSURE
+- 🔸 TIME: 1690–1850
+- 🔸 SOURCE: Locke, Smith, Bastiat
+- 🔸 ENTROPY: Property rights without monetary anchoring
+- 🔸 VERIFICATION: Wealth of Nations, Treatises on Government
+- 🔸 RECURSION: Liberty discussed. Not denominated.
+- 🔻Note: These men believed in freedom—but spent fiat.
 
 ---
 
